@@ -1,0 +1,326 @@
+{
+ "kind": "calfinar#events",
+ "etag": "\"p33gddr5cujedk0g\"",
+ "summary": "hibariyashiki@gmail.com",
+ "updated": "2018-04-28T11:53:41.340Z",
+ "timeZone": "Asia/Tokyo",
+ "accessRole": "owner",
+ "defaultReminders": [],
+ "nextSyncToken": "CODW7Kz03NoCEODW7Kz03NoCGAU=",
+ "items": [
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3043429213500000\"",
+   "id": "cskpep2mvpsakgh6003bkp75vg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=Y3NrcGVwMm12cHNha2doNjAwM2JrcDc1dmcgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-03-22T10:30:06.000Z",
+   "updated": "2018-03-22T10:30:06.750Z",
+   "summary": "北大前受診",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-19T10:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-05-19T12:00:00+09:00"
+   },
+   "iCalUID": "cskpep2mvpsakgh6003bkp75vg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3043430133898000\"",
+   "id": "81c07ji6i9omptdpjro45t86fg",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=ODFjMDdqaTZpOW9tcHRkcGpybzQ1dDg2ZmcgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-03-22T10:37:46.000Z",
+   "updated": "2018-03-22T10:37:46.949Z",
+   "summary": "婦人科",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-04-16T09:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-05-18T17:00:00+09:00"
+   },
+   "iCalUID": "81c07ji6i9omptdpjro45t86fg@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3043430285828000\"",
+   "id": "mg7107pguib6mt0bf7k5r4d9ek",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=bWc3MTA3cGd1aWI2bXQwYmY3azVyNGQ5ZWsgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-03-22T10:39:02.000Z",
+   "updated": "2018-03-22T10:39:02.914Z",
+   "summary": "腦神經外科",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-21T09:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-06-15T17:00:00+09:00"
+   },
+   "iCalUID": "mg7107pguib6mt0bf7k5r4d9ek@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3043430444890000\"",
+   "id": "uo4vhjhtna93i01uglcsdejq7g",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=dW80dmhqaHRuYTkzaTAxdWdsY3NkZWpxN2cgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-03-22T10:39:32.000Z",
+   "updated": "2018-03-22T10:40:22.445Z",
+   "summary": "消化器外科 I",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-06-18T09:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-07-13T17:00:00+09:00"
+   },
+   "iCalUID": "uo4vhjhtna93i01uglcsdejq7g@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3045512007350000\"",
+   "id": "flfqatlcfaaav3lterma1him8c",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=ZmxmcWF0bGNmYWFhdjNsdGVybWExaGltOGMgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-04-03T11:46:43.000Z",
+   "updated": "2018-04-03T11:46:43.675Z",
+   "summary": "坂元さん結婚式",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-07-21T10:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-07-21T21:00:00+09:00"
+   },
+   "iCalUID": "flfqatlcfaaav3lterma1him8c@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3045968043014000\"",
+   "id": "qupuh4rt5je14ic673pq21cquk",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=cXVwdWg0cnQ1amUxNGljNjczcHEyMWNxdWsgaGliYXJpeWFzaGlraUBt",
+   "created": "2018-04-06T03:07:01.000Z",
+   "updated": "2018-04-06T03:07:01.507Z",
+   "summary": "自立支援更新期限",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-04-30T16:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-04-30T17:00:00+09:00"
+   },
+   "iCalUID": "qupuh4rt5je14ic673pq21cquk@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3047553346768000\"",
+   "id": "chj66chpc4r6ab9h60pjeb9kclj32bb26cq32b9l6sq3gor2c9hm2oj560",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=Y2hqNjZjaHBjNHI2YWI5aDYwcGplYjlrY2xqMzJiYjI2Y3EzMmI5bDZzcTNnb3IyYzlobTJvajU2MCBoaWJhcml5YXNoaWtpQG0",
+   "created": "2018-04-15T07:17:53.000Z",
+   "updated": "2018-04-15T07:17:53.384Z",
+   "summary": "里さん来る",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-09-14T16:30:00+09:00",
+    "timeZone": "Asia/Tokyo"
+   },
+   "fin": {
+    "dateTime": "2018-09-18T17:30:00+09:00",
+    "timeZone": "Asia/Tokyo"
+   },
+   "iCalUID": "chj66chpc4r6ab9h60pjeb9kclj32bb26cq32b9l6sq3gor2c9hm2oj560@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3047880651184000\"",
+   "id": "26b3cqpq70mqj4dcvnb81c9e08",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=MjZiM2NxcHE3MG1xajRkY3ZuYjgxYzllMDggaGliYXJpeWFzaGlraUBt",
+   "created": "2018-04-17T04:45:25.000Z",
+   "updated": "2018-04-17T04:45:25.592Z",
+   "summary": "電話会議",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-23T14:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-05-23T15:00:00+09:00"
+   },
+   "iCalUID": "26b3cqpq70mqj4dcvnb81c9e08@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3049777039646000\"",
+   "id": "6cp6cpb36ks3ib9o70p66b9kcpi34b9pchh3cb9i64rjecr665h6acr26o",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=NmNwNmNwYjM2a3MzaWI5bzcwcDY2YjlrY3BpMzRiOXBjaGgzY2I5aTY0cmplY3I2NjVoNmFjcjI2byBoaWJhcml5YXNoaWtpQG0",
+   "created": "2018-04-28T04:08:39.000Z",
+   "updated": "2018-04-28T04:08:39.823Z",
+   "summary": "メーデー",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-01T10:00:00+09:00",
+    "timeZone": "Asia/Tokyo"
+   },
+   "fin": {
+    "dateTime": "2018-05-01T16:00:00+09:00",
+    "timeZone": "Asia/Tokyo"
+   },
+   "iCalUID": "6cp6cpb36ks3ib9o70p66b9kcpi34b9pchh3cb9i64rjecr665h6acr26o@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": true
+   }
+  },
+  {
+   "kind": "calfinar#event",
+   "etag": "\"3049832842680000\"",
+   "id": "2m79nth8lvjguuvcanoqa980b8",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calfinar/event?eid=Mm03OW50aDhsdmpndXV2Y2Fub3FhOTgwYjggaGliYXJpeWFzaGlraUBt",
+   "created": "2018-04-28T11:41:39.000Z",
+   "updated": "2018-04-28T11:53:41.340Z",
+   "summary": "館林君",
+   "creator": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "organizer": {
+    "email": "hibariyashiki@gmail.com",
+    "displayName": "井上大輔",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2018-05-07T20:00:00+09:00"
+   },
+   "fin": {
+    "dateTime": "2018-05-07T22:00:00+09:00"
+   },
+   "iCalUID": "2m79nth8lvjguuvcanoqa980b8@google.com",
+   "sequence": 1,
+   "reminders": {
+    "useDefault": true
+   }
+  }
+ ]
+}
