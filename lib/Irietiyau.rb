@@ -21,13 +21,13 @@ class Irietiyau
 
 	def sort
 		self.items.sort_by {|i|
-			i['start']['dateTime']
+			i['start']['dateTime'] or i['start']['date']
 		}
 	end
 
 	def simple
 		self.sort.map do |i|
-			start = i['start']['dateTime']
+			start = i['start']['dateTime'] || i['start']['date']
 			rest = (DateTime.parse(start) - DateTime.now).to_f
 			rest_pretty = sprintf('%#+15.3f', rest)
 			[start, rest_pretty, i['summary']]
